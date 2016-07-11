@@ -12,3 +12,5 @@ Still Needs Work:
 -Tutorial
 -Rare ArrayIndex glitch
 -Additional Upgradable features
+
+To play open in Unity and ensure MoonLander is running under 'Scenes' folder
