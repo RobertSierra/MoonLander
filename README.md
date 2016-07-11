@@ -13,7 +13,7 @@ Still Needs Work:
 -Rare ArrayIndex glitch
 -Additional Upgradable features
 
-To play download MoonLander.zip and run "SierraMoonLander" application.
+To play download MoonLander.7z and run "SierraMoonLander" application.
 
 Controls:
 -WASD to pilot the moon lander
