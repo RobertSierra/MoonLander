@@ -13,4 +13,12 @@ Still Needs Work:
 -Rare ArrayIndex glitch
 -Additional Upgradable features
 
-To play open in Unity and ensure MoonLander is running under 'Scenes' folder
+To play download MoonLander.zip and run "SierraMoonLander" application.
+
+Controls:
+-WASD to pilot the moon lander
+-LMB to generate a new level
+Don't let your lander (red cube for now) touch the walls.
+Land gently on the landing pad
+
+Game still in Alpha
